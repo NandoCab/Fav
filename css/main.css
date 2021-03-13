@@ -8,7 +8,7 @@
     color: #fff; }
 
 .main-header {
-  background-image: url(../img/Hogwarts.jpg);
+  background-image: url("../img/Sistema-solar.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 500px;
@@ -27,5 +27,9 @@
 
 .img-team {
   height: 150px !important; }
+
+.image-fc {
+  width: 30px;
+  margin-right: 5px; }
 
 /*# sourceMappingURL=main.css.map */
